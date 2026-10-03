@@ -1,0 +1,2 @@
+# tpgun.lua_mm2
+SCRIPT MURDER MYSTERY 2
